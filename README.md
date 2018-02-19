@@ -34,26 +34,14 @@ Name | Description | Technologies | Testing Frameworks
 - Frameworks: Rails, Sinatra, Express
 - Testing: RSpec, Jasmine, Jest, Mocha, Capybara, Truffle
 
-<<<<<<< HEAD
-##### Experience Haus (June 2017 - August 2017)
-###### 10-week, Digital Product design/UX course.
-=======
 ### Experience Haus (June 2017 - August 2017)
 #### 10-week, Digital Product design/UX course.
-
->>>>>>> dd4e3717b199cd78bd54165c8f55d237120216b3
 Working with NIX and KIX a vegan drink start up, I was able to put into practice all principles taught.
 
 Creating Personas from User Research to inform a detailed task analysis. Along with Experience Mapping the site, I was able to draw up informed user stories. Using Wireframming and user flows I lay out the basic functionality and content of the site, ultimately creating a test prototype of the site using Sketch and Marvel. These designs have since been adopted by NIX and KIXs site.
 
-<<<<<<< HEAD
-##### Hamble School of Yachting PST (Feb 2016 - Jun 2016)
-###### Fast track sailing program
-=======
 ### Hamble School of Yachting PST (Feb 2016 - Jun 2016)
 #### Fast track sailing program
-
->>>>>>> dd4e3717b199cd78bd54165c8f55d237120216b3
 - RYA/MCA Yachtmaster Offshore
 - Practical Coastal Skipper
 - International Certificate for Operators of Pleasure Craft (Power/Sail)
@@ -66,12 +54,7 @@ Creating Personas from User Research to inform a detailed task analysis. Along w
 - RYA Competent Crew
 - ENG1 Medical Certificate
 
-<<<<<<< HEAD
-##### University College London (Sep 2011 - Aug 2015)
-=======
 ### University College London (Sep 2011 - Aug 2015)
-
->>>>>>> dd4e3717b199cd78bd54165c8f55d237120216b3
 - BSc(Hons) Chemistry
 - Founding member and Elected Tour Officer of University College London Union Cycling Club
 
