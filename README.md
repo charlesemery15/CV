@@ -27,15 +27,15 @@ Name | Description | Technologies | Testing Frameworks
 - Frameworks: Rails, Sinatra, Express
 - Testing: RSpec, Jasmine, Jest, Mocha, Capybara, Truffle
 
-##### Experience Haus (June 2017 - August 2017)
-###### 10-week, Digital Product design/UX course.
+### Experience Haus (June 2017 - August 2017)
+#### 10-week, Digital Product design/UX course.
 
 Working with NIX and KIX a vegan drink start up, I was able to put into practice all principles taught.
 
 Creating Personas from User Research to inform a detailed task analysis. Along with Experience Mapping the site, I was able to draw up informed user stories. Using Wireframming and user flows I lay out the basic functionality and content of the site, ultimately creating a test prototype of the site using Sketch and Marvel. These designs have since been adopted by NIX and KIXs site.
 
-##### Hamble School of Yachting PST (Feb 2016 - Jun 2016)
-###### Fast track sailing program
+### Hamble School of Yachting PST (Feb 2016 - Jun 2016)
+#### Fast track sailing program
 
 - RYA/MCA Yachtmaster Offshore
 - Practical Coastal Skipper
@@ -49,34 +49,34 @@ Creating Personas from User Research to inform a detailed task analysis. Along w
 - RYA Competent Crew
 - ENG1 Medical Certificate
 
-##### University College London (Sep 2011 - Aug 2015)
+### University College London (Sep 2011 - Aug 2015)
 
 - BSc(Hons) Chemistry
 - Founding member and Elected Tour Officer of University College London Union Cycling Club
 
-##### St Peter’s School, York (2006 - 2011)
+### St Peter’s School, York (2006 - 2011)
 - A Levels: Biology(A*) Chemistry (B) Maths (A)
 - AS Levels: Biology (B) Chemistry (B) Maths (A) Physics (C)
 - iGCSEs: Maths (A*)
 - GCSEs: 4(A*), 3(A), 2(B),
 
 ## Experience
-##### Sales and administration, Mullen & Mullen London/ York (Sep 2011 - Jun 2017)
+### Sales and administration, Mullen & Mullen London/ York (Sep 2011 - Jun 2017)
 I have been responsible for a variety of roles in London and York
 Given its a small company I carry out various roles from local marketing, managing stock, administrative duties and dealing with clients exacting requirements.
 As I have been involved with the company from its early stages, I have been instrumental in producing  an easily accessible document to test and then alter their business processes.
 
-##### Intern, Wiggle Ltd London/ Portsmouth (Jun 2014)
+### Intern, Wiggle Ltd London/ Portsmouth (Jun 2014)
 I completed a project based on one of Wiggle’s own brands DHB, developing a range of gloves and mitts
 
-##### Intern, Chateau La Garde Pessac-Leognan, Bordeaux,(Jun 2013 - Aug 2013)
+### Intern, Chateau La Garde Pessac-Leognan, Bordeaux,(Jun 2013 - Aug 2013)
 I took on numerous positions all over the vineyard in my  2 months internship. This involved roles such as; Winemaker, Cellar Hand, Viticulturist and in sales.
 
-##### Volunteer, Castle Howard (Sep 2015 - May 2017)
+### Volunteer, Castle Howard (Sep 2015 - May 2017)
 Maintain an ancient wood, assist in identifying collection plants and archiving them.
 Restoring old paths and reducing the perennial weeds
 
-##### Volunteer, Ladakh, India (Jul 2010)
+### Volunteer, Ladakh, India (Jul 2010)
 Traveled to northern India to maintain and build three schools over a 4 week period.
 We where caught by the 2010 Pakistan floods, which swept away one of the schools we had been working on along with bridges and roads.
 Participated in the evacuation of the local people and tourists.
