@@ -2,7 +2,7 @@
 
 [Skills](#skills) |[Projects](#projects)| [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
-Since graduating I have skippered yachts, had my UX designs implemented, worked for a bespoke tailors and been part of a volunteer team managing woodland. These may seem unrelated but have a few key overlaps, which have brought to light what kind of working environment I would like to build a career on. I have found, I thrive when I'm able to make a meaningful contribution to a team, apply my analytical approach to problem solving and work in an environment that encourages learning and personal growth. This has led me to pursuing a career in software development.
+Since graduating UCL, I have skippered yachts, had my UX designs implemented, worked for a bespoke tailors and been part of a volunteer team managing woodland. These may seem unrelated but have a few key overlaps, which have brought to light what kind of working environment I would like to build a career on. I have found, I thrive when I'm able to make a meaningful contribution to a team, apply my analytical approach to problem solving and work in an environment that encourages learning and personal growth. This has led me to pursuing a career in software development.
 
 While at Makers Academy (a highly selective 16 week software development course) I've learnt coding best practices and a detailed view of the development world. I can't wait to implement the skills I've developed and foster them within professional team environment.
 
