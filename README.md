@@ -50,9 +50,7 @@ Creating Personas from User Research to inform a detailed task analysis. Along w
 - Yacht maintenance Course
 - Certificate of Proficiency in Elementary First Aid
 - Certificate of Proficiency in Personal Survival Techniques
-- RYA radar Course
-- RYA Day Skipper
-- RYA Competent Crew
+- RYA radar Course, RYA Day Skipper, RYA Competent Crew
 - ENG1 Medical Certificate
 
 ### University College London (Sep 2011 - Aug 2015)
