@@ -88,5 +88,3 @@ Participated in the evacuation of the local people and tourists.
 I cycle everywhere, used to race for uni and have built a few bikes. If I need to get somewhere I'll probably come on a bike.
 
 I'm a keen photographer and recently I've built a temporary dark room and teaching myself how to develop photographs.
-
-<sup> What sane person could live in this world and not be crazy? <sup>
